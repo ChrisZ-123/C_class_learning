@@ -1,5 +1,5 @@
 //
-// Created by Chris Zhang(张行健)_DC027486
+// Created by Chris Zhang
 //
 
 #include <stdio.h>
